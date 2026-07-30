@@ -5,6 +5,7 @@ import { Skills } from './sections/Skills'
 import Showcase from './sections/Showcase'
 import Contact from './sections/Contact'
 import Footer from './sections/Footer'
+import FeatureCards from './sections/FeatureCards '
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
     <Navbar/>
     <Hero/>
     <Showcase/>
+    <FeatureCards/>
     <Skills/>
     <Contact/>
     <Footer/>

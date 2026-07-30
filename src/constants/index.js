@@ -17,6 +17,17 @@ const navLinks = [
   },
 ];
 
+const words = [
+  { text: "Ideas", imgPath: "/images/ideas.svg" },
+  { text: "Concepts", imgPath: "/images/concepts.svg" },
+  { text: "Designs", imgPath: "/images/designs.svg" },
+  { text: "Code", imgPath: "/images/code.svg" },
+  { text: "Ideas", imgPath: "/images/ideas.svg" },
+  { text: "Concepts", imgPath: "/images/concepts.svg" },
+  { text: "Designs", imgPath: "/images/designs.svg" },
+  { text: "Code", imgPath: "/images/code.svg" },
+];
+
 const logoIconsList = [
   {
     imgPath: "/images/logos/company-logo-1.png",
@@ -127,7 +138,7 @@ const techStackIcons = [
 const socialImgs = [
   {
     name: "insta",
-    url: "https://www.instagram.com/",
+    url: "https://www.instagram.com/_d.mehalawat_",
     imgPath: "/images/insta.png",
   },
   {
@@ -142,14 +153,15 @@ const socialImgs = [
   },
   {
     name: "Git",
-    url: "https://www.linkedin.com/",
-    imgPath: "/images/linkedin.png",
+    url: "https://github.com/dhruvmehalawat",
+    imgPath: "/images/gitf.png",
   },
 ];
 
 export {
   abilities,
   logoIconsList,
+  words,
   counterItems,
   socialImgs,
   techStackIcons,
